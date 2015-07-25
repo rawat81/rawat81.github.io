@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               b10g
+tagline:             'A bit of everything'
+description:         'Journaling day to day readings and wondering why <a href="https://twitter.com/rawatra" target="_blank">@rawatra</a>.'
+url:                 http://rawat81.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Ravindra S. Rawat
+  url:               https://twitter.com/rawatra
+  email:             ''
+
+# Custom vars
+version:             1.0.0
