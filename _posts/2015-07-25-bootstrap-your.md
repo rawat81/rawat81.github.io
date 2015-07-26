@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Bootstrap your github pages.
+categories: ["misc"]
+tags: ["jekyll"]
 ---
 
 A Simple recepie to host your blog for free. I am hoping that this will bring blogging in my workflow and i can blog from my favorite text editor.
 
-As everything else in software there are options coming up in this space (Jekyll, Octopress, Middleman) but i will stick to the simplest one (as that is the whole idea of using github pages).
+As everything else in software there are too many options in this space (Jekyll, Octopress, Middleman) but i will stick to the simplest one (as that is the whole idea of using github pages).
 
 You can follow the steps below for setting up a site.
 

@@ -9,8 +9,10 @@ title:               b10g
 tagline:             'A bit of everything'
 description:         'Journaling day to day readings and wondering why <a href="https://twitter.com/rawatra" target="_blank">@rawatra</a>.'
 url:                 http://rawat81.github.io
-baseurl:             "http://rawat81.github.io"
+baseurl:             ""
 paginate:            5
+highlighter: pygments
+
 
 sass:
   sass_dir:          _sass
